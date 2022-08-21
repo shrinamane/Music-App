@@ -1,0 +1,14 @@
+#name {background-color: rgb(249, 213, 97);
+       margin: 0;
+    padding: 10px;}
+
+    #button { font-size: 40px;
+    }
+
+    #speed {
+        float: left;
+    }
+
+    #volume{
+        float: right;
+    }
